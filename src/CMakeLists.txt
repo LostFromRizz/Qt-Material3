@@ -21,8 +21,6 @@ list(APPEND MATERIAL_QML_FILES
     Menu.qml
     MenuItem.qml
     VerticalSpacer.qml
-    CarouselView.qml
-    CarouselItem.qml
     Card.qml
     Dialog.qml
     DialogButtonBox.qml

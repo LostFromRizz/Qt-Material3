@@ -10,6 +10,16 @@ This library is **not a Qt Quick Controls style** like Basic, Fusion, Imagine, i
 
 These components can be used directly in QML applications alongside Qt Quick Controls.
 
+## Installation
+
+```
+    git clone --depth=1 https://github.com/LostFromRizz/Qt-Material3.git ~/qt-material3
+    cd qt-material3
+    cmake -B build -S .
+    cmake --build build 
+    sudo cmake --install build 
+```
+
 ## Current status
 
 The library is still under development. Not all Material 3 components have been implemented yet.
